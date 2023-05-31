@@ -12,6 +12,11 @@ The Horiseon homepage has been refactored with the following updates to its HTML
 - Repetitive CSS styles consolidated 
 - CSS file reordered so application of styles is easily understood
 
+## Mock-Up
+The following image shows the web application's appearance and functionality:
+
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/01-html-css-git-homework-demo.png)
+
 ## Credits
 
 The original files for this project were provided as part of the Monash University Coding Bootcamp. 
